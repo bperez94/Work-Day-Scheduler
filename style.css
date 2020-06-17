@@ -69,3 +69,7 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+#formBox {
+  height: 100px;
+  width: 1250px;
+}
